@@ -1,0 +1,9 @@
+.dockerignore
+.drone.yml
+.env
+.gitignore
+Dockerfile
+README.md
+.git
+.gitignore
+tslint.json
