@@ -40,12 +40,6 @@
     "@types/express-serve-static-core" "*"
     "@types/serve-static" "*"
 
-"@types/formidable@^1.0.29":
-  version "1.0.29"
-  resolved "https://registry.yarnpkg.com/@types/formidable/-/formidable-1.0.29.tgz#d7f5f9fe8cbe48bafad2a7ce0b93d6695e1164e2"
-  dependencies:
-    "@types/node" "*"
-
 "@types/github@^7.1.0":
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/@types/github/-/github-7.1.0.tgz#f2f330173e622e0503c282369683511c41b5ec8d"
@@ -71,10 +65,6 @@
   resolved "https://registry.yarnpkg.com/@types/morgan/-/morgan-1.7.32.tgz#fab1ece4dae172e1a377d563d33e3634fa04927d"
   dependencies:
     "@types/express" "*"
-
-"@types/nconf@^0.0.34":
-  version "0.0.34"
-  resolved "https://registry.yarnpkg.com/@types/nconf/-/nconf-0.0.34.tgz#3e3b8c0054a0f16412f0cb3a34566b4037a0d077"
 
 "@types/node@*":
   version "8.0.25"
@@ -408,10 +398,6 @@ follow-redirects@0.0.7:
   dependencies:
     debug "^2.2.0"
     stream-consume "^0.1.0"
-
-formidable@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.1.1.tgz#96b8886f7c3c3508b932d6bd70c4d3a88f35f1a9"
 
 forwarded@~0.1.0:
   version "0.1.0"
