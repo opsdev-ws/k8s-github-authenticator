@@ -12,6 +12,10 @@
   },
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "lint": "tslint -c ./tslint.json -p .",
+    "compile": "tsc --noEmit -p ."
+  },
   "dependencies": {
     "body-parser": "^1.17.2",
     "chalk": "^2.1.0",
