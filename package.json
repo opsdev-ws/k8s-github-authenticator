@@ -1,5 +1,5 @@
 {
-  "name": "github-webhook-authenticator",
+  "name": "k8s-github-authenticator",
   "version": "0.1.0",
   "description": "Authenticates users to Kubernetes clusters via GitHub Access Tokens.",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:carldanley/github-webhook-authenticator.git"
+    "url": "git@github.com:carldanley/k8s-github-authenticator.git"
   },
   "main": "index.js",
   "license": "MIT",
