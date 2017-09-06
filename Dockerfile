@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM cmosetick/alpine-dumb-init:node-8
 
 ENV NPM_CONFIG_LOGLEVEL warn
 
